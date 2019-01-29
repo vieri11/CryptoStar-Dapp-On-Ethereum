@@ -1,7 +1,7 @@
 # CryptoStar-Dapp-On-Ethereum
 Udacity Blockchain Project -  Decentralized Star Notary Service Project
 
-Web3: web3@1.0.0-beta.37
+Web3: web3@1.0.0-beta.37  
 Truffle v5.0.2  
 openzeppelin-solidity v2.1.2  
 Token name: "StarToken"  
